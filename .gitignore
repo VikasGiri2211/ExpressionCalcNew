@@ -1,0 +1,6 @@
+.vs/
+README.md
+out/
+build/
+googletest/
+tests/
